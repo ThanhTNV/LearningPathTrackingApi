@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/ThanhTNV/LearningPathTrackingApi/actions/workflows/docker_image.yml/badge.svg)](https://github.com/ThanhTNV/LearningPathTrackingApi/actions/workflows/docker_image.yml)
 # Learning Path Tracking API
 
 ## Project Overview
