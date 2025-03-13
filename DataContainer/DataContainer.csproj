@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearningPathTracking_V2.Application\LearningPathTracking_V2.Application.csproj" />
+    <ProjectReference Include="..\LearningPathTracking_V2.Domain\LearningPathTracking_V2.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
